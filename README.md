@@ -4,7 +4,8 @@
  
  
 <img width="12800" height="7200" alt="FIG1_01" src="https://github.com/user-attachments/assets/5cbbd032-7e70-40fe-9b0f-1744ee1538e2" />
-[fig1.pdf](https://github.com/user-attachments/files/24658343/fig1.pdf)
+<img width="22070" height="11564" alt="fig1_01" src="https://github.com/user-attachments/assets/e5ff3c59-49cb-41fe-ae47-46f69a4cf4fb" />
+
 
  
  ## Highlight
