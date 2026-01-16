@@ -2,7 +2,7 @@
 #### Kaiyue Wang &dagger;, Chengyan Qin &dagger;, Chenglizhao Chen, Jieru Chi, and Teng Yu*</sup>
 
  
-
+<img width="11035" height="5782" alt="FIG01" src="https://github.com/user-attachments/assets/fe0a3e2e-ee14-4835-b351-e421ce334a9e" />
 
  
  ## Highlight
