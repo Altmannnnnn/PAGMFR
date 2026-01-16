@@ -1,4 +1,4 @@
-# <p align=center> RGPKD: Reconstruction-Guided and Prompt-Enhanced Asymmetric Knowledge Distillation for Anomaly Detection </p>
+# <p align=center> PAGMFR: Collaborative Purification in Dual Spaces for Industrial Anomaly Detection via Hierarchical Reconstruction </p>
 #### Kaiyue Wang, Chengyan Qin, Jieru Chi, Chenglizhao Chen, Teng Yu* </sup>
 
  
