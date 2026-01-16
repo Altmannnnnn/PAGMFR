@@ -1,5 +1,5 @@
 # <p align=center> PAGMFR: Collaborative Purification in Dual Spaces for Industrial Anomaly Detection via Hierarchical Reconstruction </p>
-#### Kaiyue Wang\textsuperscript{\dag}, Chengyan Qin\textsuperscript{\dag}, Chenglizhao Chen~\IEEEmembership{Member, IEEE}, Jieru Chi~\IEEEmembership{Member, IEEE}, and Teng Yu\,\textsuperscript{*}~\IEEEmembership{Member, IEEE}</sup>
+#### Kaiyue Wang\dag, Chengyan Qin\dag, Chenglizhao Chen, Jieru Chi, and Teng Yu*</sup>
 
  
  
