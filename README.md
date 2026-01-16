@@ -204,13 +204,13 @@ def forward(self, features, rec_features, img, rec_img):
 
 ## Experimental Results
 
-Typical performance on MVTec AD dataset:
+### MVTec AD Dataset Performance
+Our method achieves competitive results on the MVTec AD benchmark:
 
-| Category   | I-AUROC | P-AUROC | PRO  |
-|------------|---------|---------|------|
-| bottle     | 0.98    | 0.96    | 0.85 |
-| cable      | 0.97    | 0.94    | 0.82 |
-| capsule    | 0.96    | 0.92    | 0.78 |
+<img width="1062" height="605" alt="FIG02" src="https://github.com/user-attachments/assets/d47abe06-4ff6-4670-9c47-135282c8b40c" />
+
+
+*Note: Complete results for all 15 categories are available in our paper.*
 
 ## Related Resources
 
