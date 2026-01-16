@@ -212,6 +212,35 @@ Our method achieves competitive results on the MVTec AD benchmark:
 
 *Note: Complete results for all 15 categories are available in our paper.*
 
+# TABLE I  
+IMAGE-LEVEL AUROC ANOMALY DETECTION RESULTS ON THE MVTEC AD DATASET. **RED, GREEN** AND **BLUE NUMBERS INDICATE THE BEST, SECOND-BEST AND THIRD-BEST RESULTS, RESPECTIVELY.**
+
+| Category / Method | GN [14] | US [32] | DA [33] | PS [16] | PM [22] | CP [15] | RD [13] | PAGMFR |
+|---|---|---|---|---|---|---|---|---|
+| **Textures:**    |    |    |    |    |    |    |    |    |
+| Carpet    | 69.9    | 86.8    | 91.6    | 92.9    | 99.8    | 93.9    | 98.9    | 99.0   |
+| Grid    | 70.8    | 95.7    | 81.0    | 94.6    | 96.7    | 100    | 100    | 99.8   |
+| Leather    | 84.2    | 86.2    | 88.2    | 90.9    | 100    | 100    | 100    | 100    |
+| Tile    | 79.4    | 88.2    | 99.1    | 97.8    | 98.1    | 94.6    | 99.3    | 99.4   |
+| Wood    | 83.4    | 98.2    | 97.7    | 96.5    | 99.2    | 99.1    | 99.2    | 99.3   |
+| Average    | 77.54    | 91.02    | 91.4    | 94.54    | 98.76    | 97.52    | 99.48    | 99.5   |
+
+| **Objects:**    |    |    |    |    |    |    |    |    |
+| Bottle    | 89.2    | 97.6    | 99.0    | 98.6    | 99.9    | 98.2    | 100    | 100    |
+| Cable    | 75.7    | 84.4    | 86.2    | 90.3    | 92.7    | 81.2    | 95.0    | 97.9   |
+| Capsule    | 73.2    | 76.7    | 86.1    | 76.7    | 91.3    | 98.2    | 96.3    | 96.7   |
+| Hazelnut    | 78.5    | 92.1    | 93.1    | 92.0    | 93.1    | 98.2    | 96.3    | 100    |
+| Metal Nut    | 70.0    | 75.8    | 82.0    | 94.0    | 98.7    | 99.9    | 100    | 99.3   |
+| Pill    | 74.3    | 90.0    | 87.9    | 86.1    | 93.3    | 94.9    | 96.6    | 97.0   |
+| Screw    | 74.6    | 98.7    | 94.9    | 81.3    | 85.8    | 88.7    | 97.0    | 97.6   |
+| Toothbrush    | 65.3    | 99.2    | 95.3    | 100    | 96.1    | 99.4    | 96.6    | 99.5   |
+| Transistor    | 79.2    | 87.6    | 81.8    | 91.5    | 97.4    | 96.1    | 96.7    | 98.5   |
+| Zipper    | 74.5    | 85.9    | 91.9    | 97.9    | 90.3    | 99.9    | 98.5    | 98.7   |
+| Average    | 75.5    | 81.9    | 89.8    | 90.8    | 93.9    | 95.5    | 97.3    | 98.5   |
+| Total Average    | 76.52    | 86.46    | 90.6    | 92.67    | 96.33    | 96.51    | 98.39    | 99.0   |
+
+*Note: PIXEL-LEVEL AUROC AND PRO results on MVTEC AD, as well as comprehensive experimental results on MVTEC 3D-AD DATASET and VISA DATASET are available in our paper.*
+
 ## Related Resources
 
 - [MVTec AD Dataset](https://www.mvtec.com/company/research/datasets/mvtec-ad)
