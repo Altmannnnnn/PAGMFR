@@ -207,7 +207,7 @@ def forward(self, features, rec_features, img, rec_img):
 ### MVTec AD Dataset Performance
 Our method achieves competitive results on the MVTec AD benchmark:
 
-# TABLE I  
+### TABLE I  
 IMAGE-LEVEL AUROC ANOMALY DETECTION RESULTS ON THE MVTEC AD DATASET. **RED, GREEN** AND **BLUE NUMBERS INDICATE THE BEST, SECOND-BEST AND THIRD-BEST RESULTS, RESPECTIVELY.**
 
 <img width="1062" height="605" alt="FIG02" src="https://github.com/user-attachments/assets/d47abe06-4ff6-4670-9c47-135282c8b40c" />
